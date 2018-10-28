@@ -1,4 +1,4 @@
-regit-config
-============
+Minimalistic config files for custom Linux kernels running as Virtualbox guest.
 
-This repository contains some kernel configuration. In the virtualbox directory you will find minimal config file for virtualbox guest.
+
+For CLI there is lot more stuff that can be removed.
