@@ -1,12 +1,12 @@
-Old configs from fork
+Old configs from fork  
 `config-3.19-vbox` - untested  
 `config-3.5-vbox` - untested  
 `config-3.5-vbox-no-netfilter` - untested  
 
 
-Ubuntu linux source has been used. Install it from `linux-source-4.15.0` package.
+Ubuntu linux source has been used. Install it from `linux-source-4.15.0` package.  
 `linux-4.15.x-desktop.config` - tested with Linuxmint, working decent  
-`linux-4.15.x-server.config` - booting, nothing else tested
+`linux-4.15.x-server.config` - booting, nothing else tested   
 
 
 
